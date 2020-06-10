@@ -1,0 +1,35 @@
+GU:
+
+Dach
+	https://3dtextures.me/2020/04/15/roof-tiles-terracotta-005/
+	https://3dtextures.me/2020/04/14/roof-tiles-terracotta-004/
+	https://3dtextures.me/2019/10/31/roof-tiles-terracotta-002/
+
+Wand
+	https://www.sharetextures.com/textures/wall/sand-stone-texture-3/
+
+Raue Wand
+	https://cc0textures.com/view?id=Rock003
+	https://www.sharetextures.com/textures/plaster/wall-random-2/
+
+Metalldach
+	https://3dtextures.me/2016/05/19/metal-grunge-001/
+
+Metallgitter
+	https://cc0textures.com/view?id=Metal006
+
+Metallfenstersims
+	https://cc0textures.com/view?id=Metal021
+
+Holztür
+	https://cc0textures.com/view?id=Wood010
+Metallgeländer
+	https://cc0textures.com/view?id=Metal012
+
+
+
+
+Teppich: 
+	https://cc0textures.com/view?id=Fabric022
+	Schreenshot aus dem Lageplan (vmtl nur vorläufig, sonst Nutzungserlaubnis noch fehlend)	
+		andere Optionen: https://cc0textures.com/view?id=Fabric023
