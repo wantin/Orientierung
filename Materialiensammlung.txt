@@ -1,18 +1,16 @@
 GU:
 
 Dach
-	https://3dtextures.me/2020/04/15/roof-tiles-terracotta-005/
-	https://3dtextures.me/2020/04/14/roof-tiles-terracotta-004/
-	https://3dtextures.me/2019/10/31/roof-tiles-terracotta-002/
+	https://sharetextures.com/textures/roof/roof-tiles-1/
 
-Wand
+Wand, Fensterumrahmung etc
 	https://www.sharetextures.com/textures/wall/sand-stone-texture-3/
 
 Raue Wand
 	https://cc0textures.com/view?id=Rock003
 	https://www.sharetextures.com/textures/plaster/wall-random-2/
 
-Metalldach
+(Metalldach)
 	https://3dtextures.me/2016/05/19/metal-grunge-001/
 
 Metallgitter
@@ -23,9 +21,10 @@ Metallfenstersims
 
 Holztür
 	https://cc0textures.com/view?id=Wood010
-Metallgeländer
+(Metallgeländer)
 	https://cc0textures.com/view?id=Metal012
-
+Messingplatte Tür:
+	https://cc0textures.com/view?id=Metal007
 
 
 
